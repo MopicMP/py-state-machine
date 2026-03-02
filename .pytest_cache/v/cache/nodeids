@@ -1,0 +1,5 @@
+[
+  "tests/test_py_state_machine.py::TestMachine::test_basic",
+  "tests/test_py_state_machine.py::TestMachine::test_empty",
+  "tests/test_py_state_machine.py::TestMachine::test_type_error"
+]
